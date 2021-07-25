@@ -50,7 +50,7 @@ For the above benchmarks we used the simple basis sto-3g, which is a  minimal ba
 
 The graph belows shows a comparaison of potential energy surfaces  between basis for each method. The sto stands out as yielding the most different results.
 
-![PES](./img/ask1_Qu3_plot1_energy.png)
+![PES](./img/Task1_Qu3_plot1_energy.png)
 
 The graph belows shows the difference of potential energy surfaces between the CC basis and sto basis for each method. The HF methods stands out as showing different results.
 
